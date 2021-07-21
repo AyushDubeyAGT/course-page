@@ -1,0 +1,173 @@
+@media only screen and (max-width: 1180px){
+#wrapper header {
+    padding: 12px 0;
+}
+#wrapper .intro h1 {
+    font-size: 48px;
+}
+#wrapper .intro h2 {
+    margin-top: 20px;
+    font-size: 24px;
+}
+.section .section_content .graphic img {
+    width: 100%;
+}
+.section .text {
+    width: 50%;
+}
+.section .graphic {
+    flex-shrink: 1;
+}
+}
+@media only screen and (max-width: 920px){
+    .section .text h2 {
+        font-size: 28px;
+    }
+    .section .text p {
+        font-size: 18px;
+    }
+    .how-it-works .features {
+        font-size: 16px;
+    }
+    .pricing .pad .plans {
+        flex-direction: column;
+    }
+    .pricing .pad .plans>li {
+        width: 100%;
+        max-width: none;
+        padding: 10px;
+    }
+    .pricing .pad .plans>li .box {
+        border: 2px solid rgba(0,0,0,.15);
+        border-radius: 16px;
+        padding: 25px 19px;
+    }
+    .pricing .pad .plans>li .price {
+        margin-top: 0;
+    }
+    .pricing .pad .plans>li .included {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 5px -10px -10px;
+    }
+    .pricing .pad .plans>li .included>li {
+        margin: 0;
+        padding: 4px;
+        width: 50%;
+    }
+    .pricing .pad .plans>li .box {
+        padding: 25px;
+    }
+}
+
+
+@media only screen and (max-width: 780px){
+#wrapper .intro h1{
+    font-size: 34px;
+}
+#wrapper .intro h2 {
+    font-size: 20px;
+    margin-top: 15px;
+}
+.section .section_content {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+ .section .text {
+    width: 100%;
+    margin: 10px 0 0;
+}
+.section.right-image  .graphic {
+    margin: 25px 0 0;
+}
+.how-it-works .features {
+    flex-wrap: wrap;
+}
+.how-it-works .features>li {
+    margin-bottom: 40px;
+    width: 33.33%;
+}
+.how-it-works .quote {
+    flex-direction: column;
+    background-size: 100% 100%;
+}
+.how-it-works .quote .avatar {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 22px;
+}
+.how-it-works .quote .text {
+    text-align: center;
+    margin: 0;
+}
+.how-it-works .quote .text label {
+    font-size: 16px;
+}
+.how-it-works .quote .text .quote-logo {
+    margin: 10px auto 0;
+}
+.faq .questions>li {
+    padding: 17px 0;
+    width: 100%;
+}
+footer .pad .logo {
+    margin: 0;
+}
+footer .pad .cols {
+    margin-top: 35px;
+    flex-direction: column;
+}
+footer .pad .cols .menus {
+    flex-direction: column;
+}
+ footer .pad .cols .menus>li {
+    margin-bottom: 20px;
+}
+footer .pad .cols .menus>li label {
+    margin-bottom: 2px;
+}
+footer .pad .cols .contact {
+    margin-top: 20px;
+    margin-left: 0;
+    text-align: left;
+}
+    }
+
+@media only screen and (max-width: 560px){
+#wrapper header .header-div{
+    justify-content: center;
+}
+#wrapper header .header-div nav {
+    display: none;
+}
+#wrapper .intro {
+    padding: 30px 0 40px;
+}
+#wrapper .button.big {
+    padding: 10px 25px;
+    font-size: 14px;
+}
+.how-it-works h2 {
+    font-size: 36px;
+}
+.how-it-works h3 {
+    margin-top: 15px;
+}
+.how-it-works .features>li {
+    width: 50%;
+}
+.pricing {
+    padding: 50px 0 20px;
+}
+.pricing .pad .plans>li {
+    padding: 10px 0;
+}
+.pricing .pad .plans>li .included>li {
+    width: 100%;
+}
+
+#wrapper .faq {
+    padding: 40px 0;
+}
+}

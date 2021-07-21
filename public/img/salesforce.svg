@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="405"
+   height="283"
+   viewBox="0 0 405 283"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="salesforce.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="716"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.70864198"
+     inkscape:cx="202.5"
+     inkscape:cy="141.5"
+     inkscape:window-x="648"
+     inkscape:window-y="275"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#0085B9"
+     d="M406.165879,440.751181 C419.238845,427.232546 437.36273,418.764829 457.417848,418.764829 C484.158005,418.764829 507.332808,433.620472 519.811549,455.755381 C530.656168,451.001575 542.540682,448.327559 555.019423,448.327559 C603.151706,448.327559 642.222047,487.695013 642.222047,536.272966 C642.222047,584.850919 603.151706,624.218373 555.019423,624.218373 C549.077165,624.218373 543.432021,623.624147 537.786877,622.435696 C526.942257,641.896588 505.995801,655.11811 482.226772,655.11811 C472.273491,655.11811 462.765879,652.741207 454.298163,648.730184 C443.15643,674.727559 417.456168,693 387.447769,693 C356.102362,693 329.510761,673.241995 319.260367,645.461942 C314.803675,646.353281 310.198425,646.947507 305.444619,646.947507 C268.156955,646.947507 238,616.344882 238,578.760105 C238,553.505512 251.518635,531.51916 271.72231,519.634646 C267.56273,510.127034 265.334383,499.579528 265.334383,488.437795 C265.334383,445.059318 300.542257,410 343.920735,410 C369.175328,410 391.755906,422.033071 406.165879,440.751181 Z"
+     transform="translate(-238 -410)"
+     id="path2"
+     style="fill:#00a1e0;fill-opacity:1" />
+</svg>
